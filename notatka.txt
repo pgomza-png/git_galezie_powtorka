@@ -1,1 +1,2 @@
 To jest wspólna wersja
+To jest zmiana na gałęzi eksperyment.
